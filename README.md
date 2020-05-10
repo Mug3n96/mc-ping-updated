@@ -1,3 +1,5 @@
+# Deprecated in favor of [mcping-js](https://github.com/Cryptkeeper/mcping-js)
+
 # mc-ping-updated
 
 ![license](http://img.shields.io/npm/l/mc-ping-updated.png?style=flat) 
